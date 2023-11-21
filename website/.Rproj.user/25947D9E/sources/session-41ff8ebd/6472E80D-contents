@@ -1,9 +1,0 @@
-name: "hfscarbrough"
-navbar:
-  title: "Hannah F. Scarbrough"
-left:
-  - text: "Home"
-    href: index.html
-  - text: "About Me" 
-    href: about.html
-    
