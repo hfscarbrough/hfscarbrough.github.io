@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**hfscarbrough/hfscarbrough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a Ph.D.
 - 🌱 I’m currently learning GitHub.
 - 👯 I’m collaborating on several projects.
